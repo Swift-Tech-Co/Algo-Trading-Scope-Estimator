@@ -1,1 +1,1 @@
-# -Algo-Trading-Scope-Estimator
+# Algo-Trading-Scope-Estimator
