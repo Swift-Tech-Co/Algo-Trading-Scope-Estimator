@@ -1,0 +1,12 @@
+{
+  "name": "algo-trading-scope-estimator",
+  "version": "1.0.0",
+  "description": "Algorithmic trading platform scope and cost estimator — Swift Tech Co.",
+  "main": "calculator.js",
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "keywords": ["algo-trading", "trading-platform", "cost-estimation", "swift-tech-co"],
+  "license": "MIT",
+  "homepage": "https://swifttechco.com/services/fintech/trading-platform"
+}
